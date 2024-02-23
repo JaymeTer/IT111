@@ -1,0 +1,10 @@
+C:\Users\RAC\source\repos\Terwilliger_MortgageMania_Solution\Terwilliger_MortgageMania\bin\Debug\Terwilliger_MortgageMania.exe.config
+C:\Users\RAC\source\repos\Terwilliger_MortgageMania_Solution\Terwilliger_MortgageMania\bin\Debug\Terwilliger_MortgageMania.exe
+C:\Users\RAC\source\repos\Terwilliger_MortgageMania_Solution\Terwilliger_MortgageMania\bin\Debug\Terwilliger_MortgageMania.pdb
+C:\Users\RAC\source\repos\Terwilliger_MortgageMania_Solution\Terwilliger_MortgageMania\obj\Debug\Terwilliger_MortgageMania.csproj.AssemblyReference.cache
+C:\Users\RAC\source\repos\Terwilliger_MortgageMania_Solution\Terwilliger_MortgageMania\obj\Debug\Terwilliger_MortgageMania.MortgageCalculator.resources
+C:\Users\RAC\source\repos\Terwilliger_MortgageMania_Solution\Terwilliger_MortgageMania\obj\Debug\Terwilliger_MortgageMania.Properties.Resources.resources
+C:\Users\RAC\source\repos\Terwilliger_MortgageMania_Solution\Terwilliger_MortgageMania\obj\Debug\Terwilliger_MortgageMania.csproj.GenerateResource.cache
+C:\Users\RAC\source\repos\Terwilliger_MortgageMania_Solution\Terwilliger_MortgageMania\obj\Debug\Terwilliger_MortgageMania.csproj.CoreCompileInputs.cache
+C:\Users\RAC\source\repos\Terwilliger_MortgageMania_Solution\Terwilliger_MortgageMania\obj\Debug\Terwilliger_MortgageMania.exe
+C:\Users\RAC\source\repos\Terwilliger_MortgageMania_Solution\Terwilliger_MortgageMania\obj\Debug\Terwilliger_MortgageMania.pdb
